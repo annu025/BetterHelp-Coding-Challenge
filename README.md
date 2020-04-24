@@ -1,5 +1,9 @@
 # BetterHelp-Coding-Challenge
 
+* Run npm install
+* Open localhost:3000
+* Click on the submit button to see the results. 
+
 Below are the tables and its attributes.
 People table
 |ID   |NAME   |ADDRESS   |
